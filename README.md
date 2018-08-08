@@ -1,1 +1,1 @@
-# gmc-project
+# gcm-project
